@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1aWBjMiGvVUF9BlUbm5_lXOaJivi0_XeC/view?usp=drive_link" target="_blank">
+  <a href="[https://drive.google.com/file/d/1aWBjMiGvVUF9BlUbm5_lXOaJivi0_XeC/view?usp=drive_link](https://docs.google.com/document/d/1kAI1DJS_YZhtVzRjbm0xPFxmmnWja79R_ck46EY5DS0/edit?usp=sharing)" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View%20Here-blue?style=for-the-badge&logo=google-drive" alt="resume"/>
   </a>
 </p>
